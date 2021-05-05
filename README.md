@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alpha-Gruis
+- 👋 Hi, I’m @Sten Vallimäe
 - 👀 I’m interested in JS, React
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on studying
